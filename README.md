@@ -25,4 +25,4 @@ Um bot de Telegram focado em otimizar a busca por empregos. Ele atua como um agr
 
 1. Clone este repositório para a sua máquina:
 ```bash
-git clone [https://github.com/SEU_USUARIO/cacador-de-vagas-bot.git](https://github.com/SEU_USUARIO/cacador-de-vagas-bot.git)
+git clone [https://github.com/kctxdev/cacador-de-vagas-bot.git](https://github.com/kctxdev/cacador-de-vagas-bot.git)
